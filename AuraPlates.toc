@@ -1,0 +1,21 @@
+## Interface: 100002
+## Title: AuraPlates
+## Author: raegen
+## Version: 1.0.1
+## X-Wago-ID: vEGP05G1
+## SavedVariables: AuraPlatesDB
+## Dependencies: LibStub, CallbackHandler-1.0, AceAddon-3.0, AceDB-3.0, AceDBOptions-3.0, AceEvent-3.0, AceGUI-3.0, AceConsole-3.0, AceConfig-3.0
+
+#@no-lib-strip@
+Lib\LibStub\LibStub.lua
+Lib\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Lib\AceAddon-3.0\AceAddon-3.0.xml
+Lib\AceDB-3.0\AceDB-3.0.xml
+Lib\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Lib\AceEvent-3.0\AceEvent-3.0.xml
+Lib\AceGUI-3.0\AceGUI-3.0.xml
+Lib\AceConsole-3.0\AceConsole-3.0.xml
+Lib\AceConfig-3.0\AceConfig-3.0.xml
+#@end-no-lib-strip@
+
+AuraPlates.lua

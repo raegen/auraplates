@@ -1,0 +1,30 @@
+package-as: AuraPlates
+
+externals:
+  Libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+    tag: 1.0
+  Libs/CallbackHandler-1.0:
+    url: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+    tag: latest
+  Libs/AceAddon-3.0:
+    url: https://repos.wowace.com/wow/aceaddon/trunk/AceAddon-3.0
+    tag: latest
+  Libs/AceDB-3.0:
+    url: https://repos.wowace.com/wow/acedb/trunk/AceDB-3.0
+    tag: latest
+  Libs/AceDBOptions-3.0:
+    url: https://repos.wowace.com/wow/acedboptions/trunk/AceDBOptions-3.0
+    tag: latest
+  Libs/AceEvent-3.0:
+    url: https://repos.wowace.com/wow/aceevent/trunk/AceEvent-3.0
+    tag: latest
+  Libs/AceGUI-3.0:
+    url: https://repos.wowace.com/wow/acegui/trunk/AceGUI-3.0
+    tag: latest
+  Libs/AceConsole-3.0:
+    url: https://repos.wowace.com/wow/aceconsole/trunk/AceConsole-3.0
+    tag: latest
+  Libs/AceConfig-3.0:
+    url: https://repos.wowace.com/wow/aceconfig/trunk/AceConfig-3.0
+    tag: latest
