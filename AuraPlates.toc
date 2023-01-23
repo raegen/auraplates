@@ -2,7 +2,7 @@
 ## Title: AuraPlates
 ## Author: raegen
 ## Version: 1.0.1
-## X-Wago-ID: vEGP05G1
+## X-Wago-ID: q96dQPKO
 ## SavedVariables: AuraPlatesDB
 
 #@no-lib-strip@
